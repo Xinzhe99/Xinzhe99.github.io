@@ -16,7 +16,7 @@ I am a PhD candidate at [Zhejiang University](https://www.zju.edu.cn), specializ
 * Computer Vision & Deep Learning
 
 ## Recent News
-* **Jan 2026**: Released **[StackMFF-Series](https://github.com/Xinzhe99/StackMFF)** - Complete multi-focus fusion toolkit
+* **Jan 2026**: Released **[StackMFF-Series](https://github.com/Xinzhe99/StackMFF-Series)** - Complete multi-focus fusion toolkit
 * **Jan 2026**: Released **[OpenFocus](https://github.com/Xinzhe99/OpenFocus)** - Open-source focus stacking software
 * **2025**: Published 6+ papers on multi-focus image fusion
 
@@ -27,7 +27,8 @@ I am a PhD candidate at [Zhejiang University](https://www.zju.edu.cn), specializ
 * [LightMFF](https://github.com/Xinzhe99/LightMFF) - Ultra-lightweight network
 
 ## Contact
-* [GitHub](https://github.com/Xinzhe99) · [ResearchGate](https://www.researchgate.net/profile/Xinzhe-Xie)
+* [GitHub](https://github.com/Xinzhe99)
+* [ResearchGate](https://www.researchgate.net/profile/Xinzhe-Xie)
 * Email: xiexinzhe@zju.edu.cn
 
 [Full CV →](/cv/)
