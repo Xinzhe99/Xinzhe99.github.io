@@ -12,7 +12,7 @@ redirect_from:
 **Zhejiang University** (2022.09 - 2027.06)
 - Ph.D. Candidate in Artificial Intelligence (National Key Laboratory)
 - Overall Ranking: Top 1%
-- Advisor: [Professor Peiliang Li](http://www.cad.zju.edu.cn/lipeng/)
+- Advisor: Professor Peiliang Li
 - Research Areas: AI, Computer Vision, Image Fusion, Multi-modal Learning
 
 **Wenzhou University** (2018.09 - 2022.06)
