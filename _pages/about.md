@@ -10,12 +10,18 @@ redirect_from:
 I am a PhD candidate at [Zhejiang University](https://www.zju.edu.cn), specializing in **Artificial Intelligence** with research focus on **Multi-modal Algorithms (T2I, TI2I, VLA)**, **Computer Vision**, and **Generative Image Algorithms**. My work centers on developing advanced computer vision techniques, particularly in multi-focus image fusion, leveraging deep learning, transformers, and state space models.
 
 ## Research Interests
-* Multi-modal Algorithms (Text-to-Image, Text-guided Image-to-Image, Vision-Language-Action)
+* Multi-modal Large Models (Text-to-Image, Text-guided Image-to-Image, Vision-Language-Action)
+* Generative Image Algorithms (Diffusion Models, GANs)
 * Multi-focus Image Fusion
 * Deep Learning (CNNs, Transformers, State Space Models)
-* Generative Models (Diffusion Models, GANs)
 * Microscopic Image Processing
 * Computer Vision
+
+## Recent News
+* **Jan 2026**: Released **[StackMFF-Series](https://github.com/Xinzhe99/StackMFF)** - Complete multi-focus fusion toolkit (V1-V4)
+* **Jan 2026**: Released **[OpenFocus](https://github.com/Xinzhe99/OpenFocus)** - Open-source focus stacking software
+* **Aug 2025**: Published paper on **[SwinMFF](https://github.com/Xinzhe99/SwinMFF)** - Pure Transformer for Multi-focus Image Fusion
+* **Sep 2025**: Released **[LightMFF](https://github.com/Xinzhe99/LightMFF)** - Ultra-lightweight Multi-focus Fusion Network
 
 ## Education
 **Zhejiang University** (2022.09 - 2027.06)
