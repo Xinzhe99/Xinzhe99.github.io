@@ -4,8 +4,8 @@ date: 2025-01-01
 collection: publications
 permalink: /publication/2025-one-shot
 type: "Journal Article"
-venue: "Engineering Applications of Artificial Intelligence"
-citation: "Xinzhe Xie, Buyu He, Shuangyan Gu, Yanzhen Li, Yanjun Li, and Peiliang Li. (2025). One-shot multi-focus image stack fusion via focal depth regression. <i>Engineering Applications of Artificial Intelligence</i>, 162, 112667."
+venue: "Engineering Applications of Artificial Intelligence (Elsevier)"
+citation: "Xinzhe Xie, Buyu Guo, Shuangyan He, Yanzhen Gu, Yanjun Li, and Peiliang Li. (2025). One-shot multi-focus image stack fusion via focal depth regression. <i>Engineering Applications of Artificial Intelligence</i>, 162, 112667."
 excerpt: "One-shot multi-focus image stack fusion via focal depth regression."
 ---
 

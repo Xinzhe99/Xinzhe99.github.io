@@ -1,11 +1,11 @@
 ---
 title: "SwinMFF: toward high-fidelity end-to-end multi-focus image fusion via swin transformer-based network"
-date: 2025-06-01
+date: 2025-03-01
 collection: publications
 permalink: /publication/2025-swinmff
 type: "Journal Article"
-venue: "The Visual Computer"
-citation: "Xinzhe Xie, Buyu He, Peiliang Li, Shuangyan Zhou, and Sangjun Zhou. (2025). SwinMFF: toward high-fidelity end-to-end multi-focus image fusion via swin transformer-based network. <i>The Visual Computer</i>, 41(6), 3883-3906."
+venue: "The Visual Computer (Springer)"
+citation: "Xinzhe Xie, Buyu Guo, Peiliang Li, Shuangyan He, and Sangjun Zhou. (2025). SwinMFF: toward high-fidelity end-to-end multi-focus image fusion via swin transformer-based network. <i>The Visual Computer</i>, 41(6), 3883-3906."
 excerpt: "A swin transformer-based network for high-fidelity end-to-end multi-focus image fusion."
 ---
 

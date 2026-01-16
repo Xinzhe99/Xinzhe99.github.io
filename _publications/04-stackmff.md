@@ -1,11 +1,11 @@
 ---
 title: "StackMFF: end-to-end multi-focus image stack fusion network"
-date: 2025-02-01
+date: 2025-04-01
 collection: publications
 permalink: /publication/2025-stackmff
 type: "Journal Article"
-venue: "Applied Intelligence"
-citation: "Xinzhe Xie, Jiang Qingyan, Chen Dong, Buyu Li, Peiliang Li, and Sangjun Zhou. (2025). StackMFF: end-to-end multi-focus image stack fusion network. <i>Applied Intelligence</i>, 55(6), 503."
+venue: "Applied Intelligence (Springer)"
+citation: "Xinzhe Xie, Jiang Qingyan, Chen Dong, Buyu Guo, Peiliang Li, and Sangjun Zhou. (2025). StackMFF: end-to-end multi-focus image stack fusion network. <i>Applied Intelligence</i>, 55(6), 503."
 excerpt: "An end-to-end deep learning framework for multi-focus image stack fusion."
 ---
 
