@@ -1,6 +1,6 @@
 ---
 title: "General multi-focus image fusion"
-date: 2025-03-01
+date: 2025-07-01
 collection: publications
 permalink: /publication/2025-stackmff-v3
 type: "Journal Article"

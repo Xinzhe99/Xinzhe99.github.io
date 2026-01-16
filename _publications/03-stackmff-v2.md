@@ -1,6 +1,6 @@
 ---
 title: "One-shot multi-focus image stack fusion via focal depth regression"
-date: 2025-04-01
+date: 2025-06-01
 collection: publications
 permalink: /publication/2025-one-shot
 type: "Journal Article"

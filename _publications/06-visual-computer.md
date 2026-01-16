@@ -1,6 +1,6 @@
 ---
 title: "SwinMFF: toward high-fidelity end-to-end multi-focus image fusion via swin transformer-based network"
-date: 2025-06-01
+date: 2025-03-01
 collection: publications
 permalink: /publication/2025-swinmff
 type: "Journal Article"

@@ -1,6 +1,6 @@
 ---
 title: "StackMFF: end-to-end multi-focus image stack fusion network"
-date: 2025-07-01
+date: 2025-04-01
 collection: publications
 permalink: /publication/2025-stackmff
 type: "Journal Article"

@@ -1,6 +1,6 @@
 ---
 title: "Multi-focus image stack fusion with deterministic integration and generative restoration"
-date: 2025-02-01
+date: 2025-08-01
 collection: publications
 permalink: /publication/2025-stackmff-v4
 type: "Journal Article"

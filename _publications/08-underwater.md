@@ -1,6 +1,6 @@
 ---
 title: "Underwater three-dimensional microscope for marine benthic organism monitoring"
-date: 2024-09-01
+date: 2024-01-01
 collection: publications
 permalink: /publication/2024-underwater
 type: "Conference Paper"

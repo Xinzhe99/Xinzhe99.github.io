@@ -1,6 +1,6 @@
 ---
 title: "LightMFF: A simple and efficient ultra-lightweight multi-focus image fusion network"
-date: 2025-08-01
+date: 2025-02-01
 collection: publications
 permalink: /publication/2025-lightmff
 type: "Journal Article"
