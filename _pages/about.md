@@ -18,6 +18,7 @@ Research Interests
 
 Recent News
 ------
+* **Jan 2026**: Released **StackMFF-Series** - Complete multi-focus fusion toolkit
 * **Jan 2026**: Released **OpenFocus** - Open-source focus stacking software
 * **Aug 2025**: Published paper on **SwinMFF** - Pure Transformer for Multi-focus Image Fusion  
 * **Sep 2025**: Released **LightMFF** - Ultra-lightweight Multi-focus Fusion Network
@@ -32,4 +33,4 @@ Contact
 ------
 * [GitHub](https://github.com/Xinzhe99)
 * [ResearchGate](https://www.researchgate.net/profile/Xinzhe-Xie)
-* Email: xzx99@zju.edu.cn
+* Email: xiexinzhe@zju.edu.cn
