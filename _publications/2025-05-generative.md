@@ -1,11 +1,11 @@
 ---
 title: "Generative Multi-Focus Image Fusion"
-date: 2024-01-01
+date: 2025-05-01
 collection: publications
-permalink: /publication/2024-generative-mff
-type: "Conference Paper"
-venue: "International Conference on Image Processing"
-citation: "Xinzhe Xie. (2024). Generative Multi-Focus Image Fusion."
+permalink: /publication/2025-generative
+type: "Preprint"
+venue: "arXiv preprint"
+citation: "Xinzhe Xie, Buyu Li, Bolin He, Shuangyan Gu, Yanzhen Jiang, Qingyan Li, and Peiliang Li. (2025). Generative Multi-Focus Image Fusion. <i>arXiv preprint arXiv:2512.21495</i>."
 excerpt: "A generative approach to multi-focus image fusion using adversarial learning."
 ---
 
